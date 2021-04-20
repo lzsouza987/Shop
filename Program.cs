@@ -4,6 +4,7 @@ using Microsoft.Extensions.Hosting;
 namespace Backoffice
 {
     //Teste Commit
+    //Teste
     public class Program
     {
         public static void Main(string[] args)
